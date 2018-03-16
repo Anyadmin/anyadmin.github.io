@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Anyadmin的博客</title>
+  <icon>https://www.gravatar.com/avatar/e2c8e236a71de45462a2dd0e640ae3f7</icon>
+  <subtitle>友爱奋进，共同进步</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="//anyadmin.github.io/"/>
+  <updated>2018-03-16T07:19:38.043Z</updated>
+  <id>//anyadmin.github.io/</id>
+  
+  <author>
+    <name>Anyadmin</name>
+    <email>261077@qq.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇</title>
+    <link href="//anyadmin.github.io/p/first-time.html"/>
+    <id>//anyadmin.github.io/p/first-time.html</id>
+    <published>2018-03-14T08:13:11.000Z</published>
+    <updated>2018-03-16T07:19:38.043Z</updated>
+    
+    <content type="html"><![CDATA[<p>写作始于此<br><a id="more"></a></p><blockquote><p>《夜宿山寺》<br>危楼高百尺，手可摘星辰。<br>不敢高声语，恐惊天上人。<br>—唐，李白</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;写作始于此&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="//anyadmin.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="杂谈" scheme="//anyadmin.github.io/tags/%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
+  
+</feed>
